@@ -6,3 +6,4 @@ Currently containing service files for:
 
 - Caddy v2 web server
 - C-Lightning (fetching block headers using @fiatjaf's trustedcoin instead of btc full node)
+- LNBits Server

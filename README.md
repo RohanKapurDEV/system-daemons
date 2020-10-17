@@ -1,6 +1,6 @@
-# System Daemon files
+# Systemd service files
 
-Here is a collection of useful system daemon files for things I run on various different servers. Please feel free to submit PRs to add service files for random things that worked for you :)
+Here is a collection of useful systemd service files for things I run on various different servers. Please feel free to submit PRs to add service files for random things that worked for you :)
 
 Currently containing service files for:
 
